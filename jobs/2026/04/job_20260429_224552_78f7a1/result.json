@@ -1,0 +1,2536 @@
+{
+  "status": "ok",
+  "job_id": "job_20260429_224552_78f7a1",
+  "processed_at": "2026-04-29T22:50:31.058814+03:00",
+  "source": {
+    "type": "url",
+    "value": "https://beta-helpcenter.nakivo.com/UserGuidePDF/FullUserGuides/full_user_guide_11_1.pdf",
+    "original_name": null
+  },
+  "pdf": {
+    "pages": 1765
+  },
+  "summary": {
+    "total_links": 313,
+    "unique_links": 161,
+    "test_env_links": 0,
+    "status_groups": {
+      "2xx": 286,
+      "3xx": 0,
+      "4xx": 6,
+      "5xx": 0,
+      "errors": 21,
+      "test_env": 0
+    }
+  },
+  "jira_report": {
+    "text": "Page 57: ../../../../11.1 (Prod)/User-Guide/Content/Overview/Backup-Encryption.htm \u2014 Invalid URL '../../../../11.1 (Prod)/User-Guide/Content/Overview/Backup-Encryption.htm': No scheme supplied. Perhaps you meant https://../../../../11.1 (Prod)/User-Guide/Content/Overview/Backup-Encryption.htm?\nPage 84: https://www.hpe.com/us/en/storage/nimble.html \u2014 HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)\nPage 84: https://www.hpe.com/us/en/storage/hpe-primera.html \u2014 HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)\nPage 84: https://www.hpe.com/us/en/hpe-alletra.html \u2014 HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)\nPage 85: https://www.necam.com/ \u2014 403\nPage 104: ../../../../11.1 (Prod)/User-Guide/Content/Overview/Direct-Connect.htm \u2014 Invalid URL '../../../../11.1 (Prod)/User-Guide/Content/Overview/Direct-Connect.htm': No scheme supplied. Perhaps you meant https://../../../../11.1 (Prod)/User-Guide/Content/Overview/Direct-Connect.htm?\nPage 104: ../../../../11.1 (Prod)/User-Guide/Content/Multi-Tenant-Mode/Using-the-MSP-Console/Using-the-MSP-Console.htm \u2014 Invalid URL '../../../../11.1 (Prod)/User-Guide/Content/Multi-Tenant-Mode/Using-the-MSP-Console/Using-the-MSP-Console.htm': No scheme supplied. Perhaps you meant https://../../../../11.1 (Prod)/User-Guide/Content/Multi-Tenant-Mode/Using-the-MSP-Console/Using-the-MSP-Console.htm?\nPage 128: https://www.hpe.com/us/en/storage/nimble.html \u2014 HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)\nPage 129: https://www.hpe.com/us/en/storage/hpe-primera.html \u2014 HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)\nPage 129: https://www.hpe.com/us/en/hpe-alletra.html \u2014 HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)\nPage 129: https://www.hpe.com/us/en/hpe-alletra.html \u2014 HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)\nPage 141: https://receptor.nakivo.com/ \u2014 HTTPSConnectionPool(host='receptor.nakivo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))\nPage 141: https://collector.nakivo.com/ \u2014 HTTPSConnectionPool(host='collector.nakivo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))\nPage 161: https://linuxconfig.org/disable-automatic-updates-on-ubuntu-22-04-jammy-jellyfish-linux \u2014 403\nPage 161: https://linuxconfig.org/disable-automatic-updates-on-ubuntu-22-04-jammy-jellyfish-linux \u2014 403\nPage 167: https://linuxopsys.com/topics/install-and-use-clamav-on-ubuntu \u2014 403\nPage 297: http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html \u2014 HTTPConnectionPool(host='www.chiark.greenend.org.uk', port=80): Max retries exceeded with url: /~sgtatham/putty/latest.html (Caused by NewConnectionError(\"HTTPConnection(host='www.chiark.greenend.org.uk', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable\"))\nPage 297: http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html \u2014 HTTPConnectionPool(host='www.chiark.greenend.org.uk', port=80): Max retries exceeded with url: /~sgtatham/putty/latest.html (Caused by NewConnectionError(\"HTTPConnection(host='www.chiark.greenend.org.uk', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable\"))\nPage 478: https://console.aws.amazon.com/iam/home#home \u2014 405\nPage 736: https://en.wikipedia.org/wiki/Linear_Tape-Open#Tape_specifications \u2014 403\nPage 1596: #Key \u2014 Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?\nPage 1627: #Key \u2014 Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?\nPage 1629: #Key \u2014 Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?\nPage 1642: ../../../../../Content/Recovery/Planning-Disaster-Recovery/Site-Recovery-Job/Creating-Site-Recovery-Job/Site-Recovery-Job-Wizard-Actions/Failover-RTR-VMware-VMs-Action.htm \u2014 Invalid URL '../../../../../Content/Recovery/Planning-Disaster-Recovery/Site-Recovery-Job/Creating-Site-Recovery-Job/Site-Recovery-Job-Wizard-Actions/Failover-RTR-VMware-VMs-Action.htm': No scheme supplied. Perhaps you meant https://../../../../../Content/Recovery/Planning-Disaster-Recovery/Site-Recovery-Job/Creating-Site-Recovery-Job/Site-Recovery-Job-Wizard-Actions/Failover-RTR-VMware-VMs-Action.htm?\nPage 1649: #Key \u2014 Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?\nPage 1650: #Key \u2014 Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?\nPage 1660: #Key \u2014 Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?"
+  },
+  "links": [
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/enhanced-networking.html",
+      "page": 10,
+      "status_code": 200,
+      "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/enhanced-networking.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/23/bradv/configuring-rman-client-basic.html#GUID-5155F8E6-6E35-4261-9CC1-F12DAA9FAC5B",
+      "page": 26,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/en/database/oracle/oracle-database/26/bradv/configuring-rman-client-basic.html#GUID-5155F8E6-6E35-4261-9CC1-F12DAA9FAC5B",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/23/bradv/configuring-rman-client-basic.html#GUID-5155F8E6-6E35-4261-9CC1-F12DAA9FAC5B",
+      "page": 26,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/en/database/oracle/oracle-database/26/bradv/configuring-rman-client-basic.html#GUID-5155F8E6-6E35-4261-9CC1-F12DAA9FAC5B",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/bradv/getting-started-rman.html#GUID-3DAE7BA3-C367-4BFF-A5B2-28B3EC67BB2D",
+      "page": 27,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/bradv/getting-started-rman.html#GUID-3DAE7BA3-C367-4BFF-A5B2-28B3EC67BB2D",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/bradv/starting-interacting-with-rman-client.html#GUID-E4E287F5-5F36-431A-B069-F360A5B4BC7C",
+      "page": 27,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/bradv/starting-interacting-with-rman-client.html#GUID-E4E287F5-5F36-431A-B069-F360A5B4BC7C",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/bradv/starting-interacting-with-rman-client.html#GUID-E4E287F5-5F36-431A-B069-F360A5B4BC7C",
+      "page": 27,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/bradv/starting-interacting-with-rman-client.html#GUID-E4E287F5-5F36-431A-B069-F360A5B4BC7C",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://pve.proxmox.com/wiki/Qemu/KVM_Virtual_Machines",
+      "page": 31,
+      "status_code": 200,
+      "final_url": "https://pve.proxmox.com/wiki/Qemu/KVM_Virtual_Machines",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://pve.proxmox.com/wiki/Qemu/KVM_Virtual_Machines",
+      "page": 31,
+      "status_code": 200,
+      "final_url": "https://pve.proxmox.com/wiki/Qemu/KVM_Virtual_Machines",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "page": 54,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#Direct",
+      "page": 54,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#Direct",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#MSPLicense",
+      "page": 55,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#MSPLicense",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "../../../../11.1 (Prod)/User-Guide/Content/Overview/Backup-Encryption.htm",
+      "page": 57,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '../../../../11.1 (Prod)/User-Guide/Content/Overview/Backup-Encryption.htm': No scheme supplied. Perhaps you meant https://../../../../11.1 (Prod)/User-Guide/Content/Overview/Backup-Encryption.htm?",
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Installation-and-Deployment-Issues/Troubleshooting-External-Database-Connection-Issues.htm",
+      "page": 57,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Installation-and-Deployment-Issues/Troubleshooting-External-Database-Connection-Issues.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 61,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 61,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Transporter-Deployment-for-SAN-Access.htm",
+      "page": 74,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Transporter-Deployment-for-SAN-Access.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "page": 83,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://support.hpe.com/hpesc/public/docDisplay?docId=sd00001201en_us&page=GUID-D7147C7F-2016-0901-084B-000000000FC5.html",
+      "page": 83,
+      "status_code": 200,
+      "final_url": "https://support.hpe.com/hpesc/public/docDisplay?docId=sd00001201en_us&page=GUID-D7147C7F-2016-0901-084B-000000000FC5.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.hpe.com/us/en/storage/nimble.html",
+      "page": 84,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)",
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.hpe.com/us/en/storage/hpe-primera.html",
+      "page": 84,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)",
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.hpe.com/us/en/hpe-alletra.html",
+      "page": 84,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)",
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.necam.com/",
+      "page": 85,
+      "status_code": 403,
+      "final_url": "https://www.necam.com/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-NEC-HYDRAstor.htm",
+      "page": 86,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-NEC-HYDRAstor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/partner/cloud-provider-program/",
+      "page": 87,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/msp-backup/free-trial/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/how-to-buy/pricing/",
+      "page": 91,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/how-to-buy/pricing/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "../../../../11.1 (Prod)/User-Guide/Content/Overview/Direct-Connect.htm",
+      "page": 104,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '../../../../11.1 (Prod)/User-Guide/Content/Overview/Direct-Connect.htm': No scheme supplied. Perhaps you meant https://../../../../11.1 (Prod)/User-Guide/Content/Overview/Direct-Connect.htm?",
+      "is_test_env": false
+    },
+    {
+      "url": "../../../../11.1 (Prod)/User-Guide/Content/Multi-Tenant-Mode/Using-the-MSP-Console/Using-the-MSP-Console.htm",
+      "page": 104,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '../../../../11.1 (Prod)/User-Guide/Content/Multi-Tenant-Mode/Using-the-MSP-Console/Using-the-MSP-Console.htm': No scheme supplied. Perhaps you meant https://../../../../11.1 (Prod)/User-Guide/Content/Multi-Tenant-Mode/Using-the-MSP-Console/Using-the-MSP-Console.htm?",
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/how-to-buy/pricing/",
+      "page": 104,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/how-to-buy/pricing/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/res/files/Support-SLA.pdf",
+      "page": 104,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/res/files/Support-SLA.pdf",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/res/files/support-agreement-21-06-18.pdf",
+      "page": 104,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/support/eula/",
+      "page": 104,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/support/eula/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Custom-CA-Signed-Certificate-Compatibility.htm",
+      "page": 110,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Custom-CA-Signed-Certificate-Compatibility.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Custom-CA-Signed-Certificate-Compatibility.htm",
+      "page": 110,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Custom-CA-Signed-Certificate-Compatibility.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "page": 116,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/display/support/",
+      "page": 116,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/display/support/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/File-Level-Recovery-Fails-on-Windows.htm",
+      "page": 116,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/File-Level-Recovery-Fails-on-Windows.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-vSphere-Permissions.htm",
+      "page": 117,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-vSphere-Permissions.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://pve.proxmox.com/wiki/FAQ#faq-support-table",
+      "page": 117,
+      "status_code": 200,
+      "final_url": "https://pve.proxmox.com/wiki/FAQ#faq-support-table",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "page": 120,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/File-Recovery-Empty-Disk.htm",
+      "page": 120,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/File-Recovery-Empty-Disk.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-AWS-IAM-Permissions-for-Amazon-EC2.htm",
+      "page": 121,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-AWS-IAM-Permissions-for-Amazon-EC2.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-AWS-IAM-Permissions-for-Amazon-S3-Backblaze.htm",
+      "page": 121,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-AWS-IAM-Permissions-for-Amazon-S3-Backblaze.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "page": 122,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "page": 122,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://support.hpe.com/hpesc/public/docDisplay?docId=sd00001201en_us&page=GUID-D7147C7F-2016-0901-084B-000000000FC5.html",
+      "page": 128,
+      "status_code": 200,
+      "final_url": "https://support.hpe.com/hpesc/public/docDisplay?docId=sd00001201en_us&page=GUID-D7147C7F-2016-0901-084B-000000000FC5.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.hpe.com/us/en/storage/nimble.html",
+      "page": 128,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)",
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.hpe.com/us/en/storage/hpe-primera.html",
+      "page": 129,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)",
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.hpe.com/us/en/hpe-alletra.html",
+      "page": 129,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)",
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.hpe.com/us/en/hpe-alletra.html",
+      "page": 129,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPSConnectionPool(host='www.hpe.com', port=443): Read timed out. (read timeout=5)",
+      "is_test_env": false
+    },
+    {
+      "url": "https://mysupport.netapp.com/site/info/version-support#ontap_svst",
+      "page": 129,
+      "status_code": 200,
+      "final_url": "https://mysupport.netapp.com/site/info/version-support#ontap_svst",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Installation-and-Deployment-Issues/Transporter-Does-Not-Support-VMware-vSphere.htm",
+      "page": 131,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Installation-and-Deployment-Issues/Transporter-Does-Not-Support-VMware-vSphere.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/nbr_update_check/ga/",
+      "page": 141,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/nbr_update_check/ga/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/nbr_update_check/ga/",
+      "page": 141,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/nbr_update_check/ga/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://receptor.nakivo.com/",
+      "page": 141,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPSConnectionPool(host='receptor.nakivo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))",
+      "is_test_env": false
+    },
+    {
+      "url": "https://collector.nakivo.com/",
+      "page": 141,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPSConnectionPool(host='collector.nakivo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))",
+      "is_test_env": false
+    },
+    {
+      "url": "https://upload.nakivo.com/",
+      "page": 141,
+      "status_code": 200,
+      "final_url": "https://upload.nakivo.com/c/uploadPackage",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://nbr-va.s3.us-west-2.amazonaws.com/",
+      "page": 141,
+      "status_code": 200,
+      "final_url": "https://nbr-va.s3.us-west-2.amazonaws.com/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://d111xps0uy3x00.cloudfront.net/",
+      "page": 141,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "page": 158,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "page": 158,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-Requirements-for-Hyper-V.htm",
+      "page": 160,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-Requirements-for-Hyper-V.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Volume-Shadow-Copy-Service-Error-on-Nutanix.htm",
+      "page": 160,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Volume-Shadow-Copy-Service-Error-on-Nutanix.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Physical-Machine-Backup-Unsupported-Volumes.htm",
+      "page": 160,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Physical-Machine-Backup-Unsupported-Volumes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://linuxconfig.org/disable-automatic-updates-on-ubuntu-22-04-jammy-jellyfish-linux",
+      "page": 161,
+      "status_code": 403,
+      "final_url": "https://linuxconfig.org/disable-automatic-updates-on-ubuntu-22-04-jammy-jellyfish-linux",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://linuxconfig.org/disable-automatic-updates-on-ubuntu-22-04-jammy-jellyfish-linux",
+      "page": 161,
+      "status_code": 403,
+      "final_url": "https://linuxconfig.org/disable-automatic-updates-on-ubuntu-22-04-jammy-jellyfish-linux",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.aws.amazon.com/kms/",
+      "page": 163,
+      "status_code": 200,
+      "final_url": "https://docs.aws.amazon.com/kms/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.aws.amazon.com/kms/latest/developerguide/create-keys.html",
+      "page": 164,
+      "status_code": 200,
+      "final_url": "https://docs.aws.amazon.com/kms/latest/developerguide/create-keys.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "page": 166,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/command-line-arguments-microsoft-defender-antivirus?view=o365-worldwide",
+      "page": 166,
+      "status_code": 200,
+      "final_url": "https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/command-line-arguments-microsoft-defender-antivirus?view=o365-worldwide",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://support.eset.com/en/kb3417-eset-command-line-scanner-parameters-eclsexe-5x-and-later",
+      "page": 167,
+      "status_code": 200,
+      "final_url": "https://support.eset.com/en/kb3417-eset-command-line-scanner-parameters-eclsexe-5x-and-later",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://support.kaspersky.com/KESWin/11.4.0/en-US/181236.htm",
+      "page": 167,
+      "status_code": 200,
+      "final_url": "https://support.kaspersky.com/KESWin/11.4.0/en-US/181236.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.sophos.com/esg/endpoint/help/en-us/help/Scan-from-CLI/index.html",
+      "page": 167,
+      "status_code": 200,
+      "final_url": "https://docs.sophos.com/esg/endpoint/help/en-us/help/Scan-from-CLI/index.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://linuxopsys.com/topics/install-and-use-clamav-on-ubuntu",
+      "page": 167,
+      "status_code": 403,
+      "final_url": "https://linuxopsys.com/topics/install-and-use-clamav-on-ubuntu",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.sophos.com/esg/spl/en-us/help/ServerProtectionAgent/index.html",
+      "page": 167,
+      "status_code": 200,
+      "final_url": "https://docs.sophos.com/esg/spl/en-us/help/ServerProtectionAgent/index.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.sophos.com/esg/spl/en-us/support/ServerProtectionAgentDistributionKernelSupport/index.html",
+      "page": 167,
+      "status_code": 200,
+      "final_url": "https://docs.sophos.com/esg/spl/en-us/support/ServerProtectionAgentDistributionKernelSupport/index.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Configuring-Nodes/Adding-Existing-Nodes.htm#Installe",
+      "page": 171,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Configuring-Nodes/Adding-Existing-Nodes.htm#Installe",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Configuring-Nodes/Adding-Existing-Nodes.htm#VMware",
+      "page": 172,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Configuring-Nodes/Adding-Existing-Nodes.htm#VMware",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Multi-Tenant-Mode/Creating-a-Local-Tenant/Local-Tenant-Creation-Wizard-Nodes.htm",
+      "page": 173,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Multi-Tenant-Mode/Creating-a-Local-Tenant/Local-Tenant-Creation-Wizard-Nodes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Backup-Repository-Encryption-Works.htm",
+      "page": 182,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Backup-Repository-Encryption-Works.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Supported-Platforms/How-to-Check-Drive-and-Datastore-Sector-Size.htm",
+      "page": 188,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Supported-Platforms/How-to-Check-Drive-and-Datastore-Sector-Size.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/File-Level-Recovery-Fails-on-Windows.htm",
+      "page": 188,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/File-Level-Recovery-Fails-on-Windows.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "page": 193,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "page": 193,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/NFS-File-Share-Location-Cannot-Be-Reached-by-the-Transporter.htm",
+      "page": 193,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/NFS-File-Share-Location-Cannot-Be-Reached-by-the-Transporter.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/NFS-File-Share-Location-Cannot-Be-Reached-by-the-Transporter.htm",
+      "page": 193,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/NFS-File-Share-Location-Cannot-Be-Reached-by-the-Transporter.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "page": 195,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Required-Permissions-for-Linux-Recovery-Server.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Supported-Platforms-Issues/Cannot-Add-Windows-10-to-Inventory.htm",
+      "page": 195,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Supported-Platforms-Issues/Cannot-Add-Windows-10-to-Inventory.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Supported-Platforms/Required-APIs-For-the-Generic-S3-Compatible-Storage-Feature.htm",
+      "page": 196,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Supported-Platforms/Required-APIs-For-the-Generic-S3-Compatible-Storage-Feature.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.aws.amazon.com/storagegateway/latest/userguide/Requirements.html#requirements-hardware-storage",
+      "page": 199,
+      "status_code": 200,
+      "final_url": "https://docs.aws.amazon.com/storagegateway/#requirements-hardware-storage",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Deployment-Requirements.htm#Web",
+      "page": 202,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Deployment-Requirements.htm#Web",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Supported-Platforms.htm",
+      "page": 202,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Supported-Platforms.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://pve.proxmox.com/wiki/FAQ#faq-support-table",
+      "page": 202,
+      "status_code": 200,
+      "final_url": "https://pve.proxmox.com/wiki/FAQ#faq-support-table",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://pve.proxmox.com/wiki/Storage#_storage_types",
+      "page": 203,
+      "status_code": 200,
+      "final_url": "https://pve.proxmox.com/wiki/Storage#_storage_types",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://pve.proxmox.com/wiki/Storage#_storage_types",
+      "page": 203,
+      "status_code": 200,
+      "final_url": "https://pve.proxmox.com/wiki/Storage#_storage_types",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/RTR-Job-Failure-Maximum-Transporter-Capacity-Reached.htm",
+      "page": 207,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/RTR-Job-Failure-Maximum-Transporter-Capacity-Reached.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/trial-download/",
+      "page": 224,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/trial-download/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/trial-download/",
+      "page": 237,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/trial-download/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "page": 244,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/support/eula/",
+      "page": 250,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/support/eula/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/support/eula/",
+      "page": 251,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/support/eula/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/support/eula/",
+      "page": 251,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/support/eula/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "page": 255,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "page": 255,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "http://winscp.net/",
+      "page": 258,
+      "status_code": 200,
+      "final_url": "https://winscp.net/eng/index.php",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/trial-download/",
+      "page": 261,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/trial-download/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-Synology-NAS-Processor.htm",
+      "page": 261,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-Synology-NAS-Processor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-QNAP-NAS-Processor.htm",
+      "page": 267,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-QNAP-NAS-Processor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-QNAP-NAS-Processor.htm",
+      "page": 267,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-QNAP-NAS-Processor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-an-ASUSTOR-NAS-Processor.htm",
+      "page": 272,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-an-ASUSTOR-NAS-Processor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-an-ASUSTOR-NAS-Processor.htm",
+      "page": 272,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-an-ASUSTOR-NAS-Processor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/trial-download/download/",
+      "page": 278,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/trial-download/download/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-Generic-ARM-Based-Device.htm",
+      "page": 278,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-Generic-ARM-Based-Device.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://github.com/iocage/iocage",
+      "page": 280,
+      "status_code": 200,
+      "final_url": "https://github.com/iocage/iocage",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.ixsystems.com/documentation/freenas/11.2/storage.html",
+      "page": 280,
+      "status_code": 200,
+      "final_url": "https://www.ixsystems.com/documentation/freenas/11.2/storage.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.truenas.com/docs/core/coretutorials/jailspluginsvms/jails/settingupjailstorage/",
+      "page": 280,
+      "status_code": 200,
+      "final_url": "https://www.truenas.com/docs/core/13.0/coretutorials/jailspluginsvms/jails/settingupjailstorage/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Release-Notes/Content/v10-Release-Notes/v10.9-Release-Notes.htm",
+      "page": 280,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Release-Notes/Content/v10-Release-Notes/v10.9-Release-Notes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://github.com/NAKIVO/iocage-plugin-nbr/raw/master/nbr.json",
+      "page": 280,
+      "status_code": 200,
+      "final_url": "https://raw.githubusercontent.com/NAKIVO/iocage-plugin-nbr/master/nbr.json",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://github.com/NAKIVO/iocage-plugin-nbr-transporter/raw/master/nbr-transporter.json",
+      "page": 280,
+      "status_code": 200,
+      "final_url": "https://raw.githubusercontent.com/NAKIVO/iocage-plugin-nbr-transporter/master/nbr-transporter.json",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://github.com/NAKIVO/iocage-plugin-nbr-transporter/raw/master/nbr-transporter.json",
+      "page": 280,
+      "status_code": 200,
+      "final_url": "https://raw.githubusercontent.com/NAKIVO/iocage-plugin-nbr-transporter/master/nbr-transporter.json",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "page": 285,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/res/files/Support-SLA.pdf",
+      "page": 285,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/res/files/Support-SLA.pdf",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/res/files/Support-SLA.pdf",
+      "page": 285,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/res/files/Support-SLA.pdf",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/update/",
+      "page": 286,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/update/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/update/",
+      "page": 287,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/update/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/update/",
+      "page": 290,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/update/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "page": 291,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/update/",
+      "page": 292,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/update/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Installation-and-Deployment-Issues/Updating-Manually-on-Synology-NAS.htm",
+      "page": 294,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Installation-and-Deployment-Issues/Updating-Manually-on-Synology-NAS.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/update/",
+      "page": 294,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/update/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-Synology-NAS-Processor.htm",
+      "page": 294,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-Synology-NAS-Processor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://winscp.net/eng/download.php",
+      "page": 297,
+      "status_code": 200,
+      "final_url": "https://winscp.net/eng/download.php",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html",
+      "page": 297,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPConnectionPool(host='www.chiark.greenend.org.uk', port=80): Max retries exceeded with url: /~sgtatham/putty/latest.html (Caused by NewConnectionError(\"HTTPConnection(host='www.chiark.greenend.org.uk', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+      "is_test_env": false
+    },
+    {
+      "url": "http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html",
+      "page": 297,
+      "status_code": null,
+      "final_url": null,
+      "error": "HTTPConnectionPool(host='www.chiark.greenend.org.uk', port=80): Max retries exceeded with url: /~sgtatham/putty/latest.html (Caused by NewConnectionError(\"HTTPConnection(host='www.chiark.greenend.org.uk', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/update/",
+      "page": 302,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/update/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-QNAP-NAS-Processor.htm",
+      "page": 302,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-QNAP-NAS-Processor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-QNAP-NAS-Processor.htm",
+      "page": 302,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-QNAP-NAS-Processor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-an-ASUSTOR-NAS-Processor.htm",
+      "page": 304,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-an-ASUSTOR-NAS-Processor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/update/",
+      "page": 307,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/update/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-Generic-ARM-Based-Device.htm",
+      "page": 307,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/How-to-Identify-the-CPU-Architecture-of-a-Generic-ARM-Based-Device.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/resources/download/update/",
+      "page": 308,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/resources/download/update/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/",
+      "page": 328,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/How-Job-Merging-Works.htm",
+      "page": 352,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/How-Job-Merging-Works.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://mail.google.com/",
+      "page": 392,
+      "status_code": 200,
+      "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S-836640932%3A1777492131543065&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWa2PateW-JMUJwiEqLMUKgUisgNi2FE5xHuAm7x-8XP2Bdvp9jjRGE0aoFyC8L1J9gt9yR67M72XQ",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://myaccount.google.com/",
+      "page": 392,
+      "status_code": 200,
+      "final_url": "https://www.google.com/account/about/?hl=en-US",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.aws.amazon.com/kms/",
+      "page": 404,
+      "status_code": 200,
+      "final_url": "https://docs.aws.amazon.com/kms/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-kms-alias.html",
+      "page": 406,
+      "status_code": 200,
+      "final_url": "https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-resource-kms-alias.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "page": 418,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "page": 418,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "page": 426,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "page": 426,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "page": 426,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "page": 426,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Moving-a-Backup-Repository-to-a-New-Location.htm",
+      "page": 436,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Moving-a-Backup-Repository-to-a-New-Location.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "page": 464,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "page": 464,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Managing-Nodes/Enabling-Direct-Connect.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Supported-Platforms.htm#VMware",
+      "page": 472,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Supported-Platforms.htm#VMware",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Deployment-Requirements.htm#Required",
+      "page": 472,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Deployment-Requirements.htm#Required",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Supported-Platforms.htm#Microsof",
+      "page": 475,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Supported-Platforms.htm#Microsof",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Deployment-Requirements.htm#Required",
+      "page": 475,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Deployment-Requirements.htm#Required",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://aws.amazon.com/",
+      "page": 478,
+      "status_code": 200,
+      "final_url": "https://aws.amazon.com/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://console.aws.amazon.com/iam/home#home",
+      "page": 478,
+      "status_code": 405,
+      "final_url": "https://us-east-1.console.aws.amazon.com/iam/home#home",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://cloud.google.com/storage/docs/authentication/managing-hmackeys",
+      "page": 486,
+      "status_code": 200,
+      "final_url": "https://docs.cloud.google.com/storage/docs/authentication/managing-hmackeys",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Supported-Platforms/How-to-Add-Google-Cloud-Storage.htm",
+      "page": 486,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Supported-Platforms/How-to-Add-Google-Cloud-Storage.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://min.io/docs/minio/linux/integrations/setup-nginx-proxy-with-minio.html",
+      "page": 487,
+      "status_code": 200,
+      "final_url": "https://docs.min.io/aistor/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://github.com/minio/minio/discussions/17097",
+      "page": 487,
+      "status_code": 200,
+      "final_url": "https://github.com/minio/minio/discussions/17097",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "http://wasabi.com/sign-up/",
+      "page": 488,
+      "status_code": 200,
+      "final_url": "https://wasabi.com/try-free",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.wasabi.com/docs/create-a-user",
+      "page": 489,
+      "status_code": 200,
+      "final_url": "https://docs.wasabi.com/docs/create-a-user",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://wasabi.com/resources/videos/how-to-set-up-wasabi-for-user-access-separation",
+      "page": 489,
+      "status_code": 200,
+      "final_url": "https://wasabi.com/resources/videos/how-to-set-up-wasabi-for-user-access-separation",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://wasabi.com/resources/videos/how-to-set-up-wasabi-for-user-access-separation",
+      "page": 489,
+      "status_code": 200,
+      "final_url": "https://wasabi.com/resources/videos/how-to-set-up-wasabi-for-user-access-separation",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-Repository-Issues/Troubleshooting-S3-Compatible-Repositories.htm",
+      "page": 490,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-Repository-Issues/Troubleshooting-S3-Compatible-Repositories.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "http://portal.azure.com/",
+      "page": 492,
+      "status_code": 200,
+      "final_url": "https://portal.azure.com/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "http://portal.azure.com/",
+      "page": 502,
+      "status_code": 200,
+      "final_url": "https://portal.azure.com/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/graph/teams-licenses",
+      "page": 507,
+      "status_code": 200,
+      "final_url": "https://learn.microsoft.com/en-us/graph/teams-licenses",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/graph/teams-licenses",
+      "page": 507,
+      "status_code": 200,
+      "final_url": "https://learn.microsoft.com/en-us/graph/teams-licenses",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "page": 507,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "page": 507,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "page": 512,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "page": 512,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings#enable-named-locations-by-using-conditional-access",
+      "page": 512,
+      "status_code": 200,
+      "final_url": "https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings#enable-named-locations-by-using-conditional-access",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/graph/metered-api-setup?tabs=azurecloudshell",
+      "page": 513,
+      "status_code": 200,
+      "final_url": "https://learn.microsoft.com/en-us/graph/metered-api-setup?tabs=azurecloudshell",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/graph/metered-api-setup?tabs=azurecloudshell",
+      "page": 513,
+      "status_code": 200,
+      "final_url": "https://learn.microsoft.com/en-us/graph/metered-api-setup?tabs=azurecloudshell",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/graph/teams-licenses",
+      "page": 513,
+      "status_code": 200,
+      "final_url": "https://learn.microsoft.com/en-us/graph/teams-licenses",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "http://portal.azure.com/",
+      "page": 513,
+      "status_code": 200,
+      "final_url": "https://portal.azure.com/Error/UE_404?aspxerrorpath=/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "page": 515,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.nakivo.com/how-to-videos/",
+      "page": 519,
+      "status_code": 200,
+      "final_url": "https://www.nakivo.com/how-to-videos/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Supported-Platforms.htm#Physical",
+      "page": 519,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Supported-Platforms.htm#Physical",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Deployment-Requirements.htm#Required",
+      "page": 519,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Deployment-Requirements.htm#Required",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/Cannot-Add-Physical-Machine-via-Direct-Connect.htm",
+      "page": 525,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/Cannot-Add-Physical-Machine-via-Direct-Connect.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/Cannot-Add-Physical-Machine-via-Direct-Connect.htm",
+      "page": 525,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/Cannot-Add-Physical-Machine-via-Direct-Connect.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#Direct",
+      "page": 562,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#Direct",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "page": 563,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#Direct",
+      "page": 591,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#Direct",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#Direct",
+      "page": 591,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#Direct",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Windows.htm#Installi2",
+      "page": 591,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Windows.htm#Installi2",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Windows.htm#Silent",
+      "page": 591,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Windows.htm#Silent",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Linux/Installing-on-Linux.htm#Installi2",
+      "page": 591,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Linux/Installing-on-Linux.htm#Installi2",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Linux/Installing-on-Linux.htm#Silent",
+      "page": 591,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Linux/Installing-on-Linux.htm#Silent",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "page": 591,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/Starting-and-Stopping-Product-Services.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Configuring-Nodes/Adding-Existing-Nodes.htm",
+      "page": 591,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/Nodes/Configuring-Nodes/Adding-Existing-Nodes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/General/System-Settings.htm",
+      "page": 593,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/General/System-Settings.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/General/Users-and-Roles/Managing-Local-Users/Adding-Local-User.htm",
+      "page": 593,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Settings/General/Users-and-Roles/Managing-Local-Users/Adding-Local-User.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Windows.htm#Installi2",
+      "page": 594,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Windows.htm#Installi2",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Windows.htm#Silent",
+      "page": 594,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Windows.htm#Silent",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Linux/Installing-on-Linux.htm#Installi2",
+      "page": 594,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Linux/Installing-on-Linux.htm#Installi2",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Linux/Installing-on-Linux.htm#Silent",
+      "page": 594,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/Installing-NAKIVO-Backup-and-Replication/Installing-on-Linux/Installing-on-Linux.htm#Silent",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#MSPDC",
+      "page": 594,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#MSPDC",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#MSPDC",
+      "page": 595,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Deployment/System-Requirements/Feature-Requirements.htm#MSPDC",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-AWS-IAM-Permissions-for-Amazon-S3-Backblaze.htm",
+      "page": 613,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-AWS-IAM-Permissions-for-Amazon-S3-Backblaze.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.aws.amazon.com/config/latest/developerguide/s3-bucket-policy.html",
+      "page": 613,
+      "status_code": 200,
+      "final_url": "https://docs.aws.amazon.com/config/latest/developerguide/s3-bucket-policy.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://wasabi.com/cloud-storage-pricing/",
+      "page": 625,
+      "status_code": 200,
+      "final_url": "https://wasabi.com/pricing",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "page": 637,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-NEC-HYDRAstor.htm",
+      "page": 637,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-NEC-HYDRAstor.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "page": 639,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "page": 640,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "page": 646,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Integrating-with-EMC-DD-Boost.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-Repository-Issues/Backup-Repository-Insufficient-Permissions.htm",
+      "page": 651,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-Repository-Issues/Backup-Repository-Insufficient-Permissions.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-Repository-Issues/Backup-Repository-Insufficient-Permissions.htm",
+      "page": 652,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-Repository-Issues/Backup-Repository-Insufficient-Permissions.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 683,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "page": 717,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "page": 717,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "page": 721,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "page": 721,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Linear_Tape-Open#Tape_specifications",
+      "page": 736,
+      "status_code": 403,
+      "final_url": "https://en.wikipedia.org/wiki/Linear_Tape-Open#Tape_specifications",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/javase/jndi/tutorial/ldap/referral/jndi.html",
+      "page": 750,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/javase/jndi/tutorial/ldap/referral/jndi.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/javase/jndi/tutorial/ldap/referral/jndi.html",
+      "page": 750,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/javase/jndi/tutorial/ldap/referral/jndi.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "http://www.nakivo.com/documentation.htm",
+      "page": 795,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Moving-a-Backup-Repository-to-a-New-Location.htm",
+      "page": 805,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Moving-a-Backup-Repository-to-a-New-Location.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Moving-a-Backup-Repository-to-a-New-Location.htm",
+      "page": 805,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Moving-a-Backup-Repository-to-a-New-Location.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://upload.nakivo.com/c/uploadPackage",
+      "page": 812,
+      "status_code": 200,
+      "final_url": "https://upload.nakivo.com/c/uploadPackage",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 829,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 839,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 860,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 869,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 890,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Backup/Creating-VMware-Cloud-Director-Backup-Jobs/Backup-Job-Wizard-for-VMware-Cloud-Director-Retention.htm",
+      "page": 899,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Backup/Creating-VMware-Cloud-Director-Backup-Jobs/Backup-Job-Wizard-for-VMware-Cloud-Director-Retention.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-Requirements-for-Hyper-V.htm",
+      "page": 901,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-Requirements-for-Hyper-V.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-for-Linux-VMs.htm",
+      "page": 901,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-for-Linux-VMs.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Backing-Up-Paid-Marketplace-EC2-Instances.htm",
+      "page": 913,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Backing-Up-Paid-Marketplace-EC2-Instances.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 922,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 931,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 950,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 959,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 978,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 987,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "page": 995,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "page": 995,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 1002,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 1011,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 1028,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 1049,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 1059,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/23/bradv/configuring-rman-client-basic.html#GUID-1090ADE7-5B97-43FE-B9BA-B720C50CE6B7",
+      "page": 1065,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/en/database/oracle/oracle-database/26/bradv/configuring-rman-client-basic.html#GUID-1090ADE7-5B97-43FE-B9BA-B720C50CE6B7",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/23/bradv/backing-up-database.html#GUID-4E1F605A-76A7-48D0-9D9B-7343B4327E2A",
+      "page": 1065,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/en/database/oracle/oracle-database/26/bradv/backing-up-database.html#GUID-4E1F605A-76A7-48D0-9D9B-7343B4327E2A",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/23/bradv/configuring-rman-client-basic.html#GUID-03DE4CF6-9D9F-4806-B5CA-CAA4CF5F2133",
+      "page": 1065,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/en/database/oracle/oracle-database/26/bradv/configuring-rman-client-basic.html#GUID-03DE4CF6-9D9F-4806-B5CA-CAA4CF5F2133",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/23/admin/managing-archived-redo-log-files.html#GUID-5EE4AC49-E1B2-41A2-BEE7-AA951EAAB2F3",
+      "page": 1065,
+      "status_code": 200,
+      "final_url": "https://docs.oracle.com/en/database/oracle/oracle-database/26/admin/managing-archived-redo-log-files.html#GUID-5EE4AC49-E1B2-41A2-BEE7-AA951EAAB2F3",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 1069,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 1090,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 1101,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Overview/Recovery-Point-Retention.htm",
+      "page": 1116,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Overview/Recovery-Point-Retention.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 1117,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Backup/Creating-VMware-Cloud-Director-Backup-Jobs/Backup-Job-Wizard-for-VMware-Cloud-Director-Retention.htm",
+      "page": 1126,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Backup/Creating-VMware-Cloud-Director-Backup-Jobs/Backup-Job-Wizard-for-VMware-Cloud-Director-Retention.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-for-Linux-VMs.htm?Highlight=pre-freeze-script",
+      "page": 1129,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-for-Linux-VMs.htm?Highlight=pre-freeze-script",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://forum.proxmox.com/threads/backups-in-pve-2-3.13204/",
+      "page": 1133,
+      "status_code": 200,
+      "final_url": "https://forum.proxmox.com/threads/backups-in-pve-2-3.13204/",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "page": 1143,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/How-Recovery-Point-Expiration-Dates-Are-Calculated.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 1152,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "page": 1152,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-and-Replication/Keeping-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "page": 1154,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Backup-and-Replication-Issues/Slow-Speed-When-Copying-a-Backup-to-Tape.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Moving-a-Backup-Repository-to-a-New-Location.htm",
+      "page": 1162,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Backup-Repository/Moving-a-Backup-Repository-to-a-New-Location.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.vmware.com/topics/fault-tolerance",
+      "page": 1176,
+      "status_code": 200,
+      "final_url": "https://www.vmware.com/topics/fault-tolerance",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/High-Availability-of-NAKIVO-Backup-And-Replication.htm",
+      "page": 1208,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/High-Availability-of-NAKIVO-Backup-And-Replication.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-Requirements-for-Hyper-V.htm",
+      "page": 1222,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-Requirements-for-Hyper-V.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-for-Linux-VMs.htm",
+      "page": 1222,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Application-Awareness-Issues/Application-Aware-Mode-for-Linux-VMs.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.vmware.com/topics/fault-tolerance",
+      "page": 1248,
+      "status_code": 200,
+      "final_url": "https://www.vmware.com/topics/fault-tolerance",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/RTR-Job-Failure-Maximum-Transporter-Capacity-Reached.htm",
+      "page": 1270,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/RTR-Job-Failure-Maximum-Transporter-Capacity-Reached.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.vmware.com/topics/fault-tolerance",
+      "page": 1272,
+      "status_code": 200,
+      "final_url": "https://www.vmware.com/topics/fault-tolerance",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 1303,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 1329,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-identifiers",
+      "page": 1335,
+      "status_code": 200,
+      "final_url": "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-identifiers",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 1339,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/download/details.aspx?id=48145",
+      "page": 1339,
+      "status_code": 200,
+      "final_url": "https://www.microsoft.com/en-us/download/details.aspx?id=48145",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 1351,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "page": 1355,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "page": 1355,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Installation-and-Deployment/Required-API-Permissions-for-Microsoft-365.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Adding-Microsoft-365-Public-Folder-Permissions.htm",
+      "page": 1361,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Adding-Microsoft-365-Public-Folder-Permissions.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "page": 1362,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Release-Notes/Content/Release-Notes.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 1374,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 1382,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 1398,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 1414,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "page": 1430,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Limitation-on-the-Chain-of-Incremental-Recovery-Points.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Cannot-Migrate-Flash-Booted-VM-on-Hyper-V-2019.htm",
+      "page": 1440,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Cannot-Migrate-Flash-Booted-VM-on-Hyper-V-2019.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Cannot-Migrate-Flash-Booted-VM-on-Hyper-V-2019.htm",
+      "page": 1440,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Cannot-Migrate-Flash-Booted-VM-on-Hyper-V-2019.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/High-Availability-of-NAKIVO-Backup-And-Replication.htm",
+      "page": 1478,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Frequently-Asked-Questions/Miscellaneous/High-Availability-of-NAKIVO-Backup-And-Replication.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://d111xps0uy3x00.cloudfront.net/res/product/bmr/NAKIVO Backup_Replication BMR appliance v11.1.0.iso",
+      "page": 1528,
+      "status_code": 200,
+      "final_url": "https://d111xps0uy3x00.cloudfront.net/res/product/bmr/NAKIVO%20Backup_Replication%20BMR%20appliance%20v11.1.0.iso",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Creation-of-Bootable-Media-on-Windows-OS-Machine-Fails.htm",
+      "page": 1530,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Creation-of-Bootable-Media-on-Windows-OS-Machine-Fails.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Creation-of-Bootable-Media-on-Windows-OS-Machine-Fails.htm",
+      "page": 1530,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Recovery-Issues/Creation-of-Bootable-Media-on-Windows-OS-Machine-Fails.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "#Key",
+      "page": 1596,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?",
+      "is_test_env": false
+    },
+    {
+      "url": "#Key",
+      "page": 1627,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?",
+      "is_test_env": false
+    },
+    {
+      "url": "#Key",
+      "page": 1629,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?",
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/RTR-Job-Failure-Maximum-Transporter-Capacity-Reached.htm",
+      "page": 1634,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/Knowledge-Base/Content/Director-and-Transporter-Issues/RTR-Job-Failure-Maximum-Transporter-Capacity-Reached.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/User-Guide/Content/Overview/Pre-and-Post-Job-Scripts.htm",
+      "page": 1640,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/User-Guide/Content/Overview/Pre-and-Post-Job-Scripts.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "../../../../../Content/Recovery/Planning-Disaster-Recovery/Site-Recovery-Job/Creating-Site-Recovery-Job/Site-Recovery-Job-Wizard-Actions/Failover-RTR-VMware-VMs-Action.htm",
+      "page": 1642,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '../../../../../Content/Recovery/Planning-Disaster-Recovery/Site-Recovery-Job/Creating-Site-Recovery-Job/Site-Recovery-Job-Wizard-Actions/Failover-RTR-VMware-VMs-Action.htm': No scheme supplied. Perhaps you meant https://../../../../../Content/Recovery/Planning-Disaster-Recovery/Site-Recovery-Job/Creating-Site-Recovery-Job/Site-Recovery-Job-Wizard-Actions/Failover-RTR-VMware-VMs-Action.htm?",
+      "is_test_env": false
+    },
+    {
+      "url": "#Key",
+      "page": 1649,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?",
+      "is_test_env": false
+    },
+    {
+      "url": "#Key",
+      "page": 1650,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?",
+      "is_test_env": false
+    },
+    {
+      "url": "#Key",
+      "page": 1660,
+      "status_code": null,
+      "final_url": null,
+      "error": "Invalid URL '#Key': No scheme supplied. Perhaps you meant https://#Key?",
+      "is_test_env": false
+    },
+    {
+      "url": "http://java.com/en/download/help/path.xml",
+      "page": 1714,
+      "status_code": 200,
+      "final_url": "https://www.java.com/en/download/help/path.html",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://helpcenter.nakivo.com/api-reference/Content/API-Reference-Overview.htm",
+      "page": 1724,
+      "status_code": 200,
+      "final_url": "https://helpcenter.nakivo.com/api-reference/Content/API-Reference-Overview.htm",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://aptaredocs.veritas.com/10.3.00/#page/Backup%2520Manager%2520DC%2F%24H_94.html%23",
+      "page": 1725,
+      "status_code": 200,
+      "final_url": "https://aptaredocs.veritas.com/10.3.00/#page/Backup%2520Manager%2520DC%2F%24H_94.html%23",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://aptaredocs.veritas.com/10.3.00/#page/User%2520Guide%2F%24H_168.html%23",
+      "page": 1725,
+      "status_code": 200,
+      "final_url": "https://aptaredocs.veritas.com/10.3.00/#page/User%2520Guide%2F%24H_168.html%23",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://aptaredocs.veritas.com/10.3.00/#page/Backup%2520Manager%2520DC%2F%24H_28.html%23ww1001115",
+      "page": 1725,
+      "status_code": 200,
+      "final_url": "https://aptaredocs.veritas.com/10.3.00/#page/Backup%2520Manager%2520DC%2F%24H_28.html%23ww1001115",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://aptaredocs.veritas.com/10.3.00/#page/User%2520Guide%2F%24H_31.html%23",
+      "page": 1729,
+      "status_code": 200,
+      "final_url": "https://aptaredocs.veritas.com/10.3.00/#page/User%2520Guide%2F%24H_31.html%23",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://aptaredocs.veritas.com/10.3.00/#page/User%2520Guide%2F%24H_31.html%23",
+      "page": 1729,
+      "status_code": 200,
+      "final_url": "https://aptaredocs.veritas.com/10.3.00/#page/User%2520Guide%2F%24H_31.html%23",
+      "error": null,
+      "is_test_env": false
+    },
+    {
+      "url": "https://aptaredocs.veritas.com/10.3.00/#page/User%2520Guide%2F%24H.html%23wwconnect_header",
+      "page": 1729,
+      "status_code": 200,
+      "final_url": "https://aptaredocs.veritas.com/10.3.00/#page/User%2520Guide%2F%24H.html%23wwconnect_header",
+      "error": null,
+      "is_test_env": false
+    }
+  ],
+  "errors": []
+}

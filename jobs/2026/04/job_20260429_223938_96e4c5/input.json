@@ -1,0 +1,22 @@
+{
+    "job_id": "job_20260429_223938_96e4c5",
+    "created_at": "2026-04-29T22:39:38+03:00",
+    "source": {
+        "type": "url",
+        "value": "https://helpcenter.nakivo.com/UserGuidePDF/FullUserGuides/full_user_guide_11_1.pdf",
+        "original_name": null
+    },
+    "options": {
+        "timeout": 5,
+        "max_links": 500,
+        "follow_redirects": false,
+        "http_method": "HEAD"
+    },
+    "paths": {
+        "job_dir": "/var/www/qad.nakivo.com/pdf_link_checker/jobs/2026/04/job_20260429_223938_96e4c5",
+        "input_pdf": null,
+        "result_json": "/var/www/qad.nakivo.com/pdf_link_checker/jobs/2026/04/job_20260429_223938_96e4c5/result.json",
+        "stdout_log": "/var/www/qad.nakivo.com/pdf_link_checker/jobs/2026/04/job_20260429_223938_96e4c5/stdout.log",
+        "stderr_log": "/var/www/qad.nakivo.com/pdf_link_checker/jobs/2026/04/job_20260429_223938_96e4c5/stderr.log"
+    }
+}
